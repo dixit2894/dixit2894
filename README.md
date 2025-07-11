@@ -12,7 +12,7 @@
 
 ## My Competitive Programming Profiles
 - [Codeforces](https://codeforces.com/profile/Dixit_Pansuriya)
-- [Leetcode]()
+- [Leetcode](https://leetcode.com/u/Dixit_Pansuriya28/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/user/dixitpans30v0/)
 
 ## Connect with Me
@@ -41,7 +41,7 @@
 - Git, GitHub, Stack Overflow, slack
 
 ### IDEs:
-- Visual Studio Code, IntelliJ, ]
+- Visual Studio Code
 
 ### OS:
 - Linux (Ubuntu), Windows
@@ -50,7 +50,7 @@
 
 ## 💥 Achievements & Certifications
 
-- 🏆 **Top 15%** in **LeetCode Weekly Contests**
+- 🏆 **Top 10%** in **LeetCode Weekly Contests**
 
 ---
 

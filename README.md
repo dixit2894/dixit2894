@@ -2,10 +2,10 @@
 
 ## About Me
 
-- 🎓 **University**: Final year student in **Computer Science & Engineering** at Nirma University.
+- 🎓 **University**: I am a final year student pursuing a Bachelor of Technology in Computer Science & Engineering at Nirma University , with an expected graduation in May 2026.
 - 💻 **Passion**: I love solving real-world problems through **software development** and **coding**.
 - 🧑‍💻 **Competitive Programmer**: Active on Codeforces, LeetCode, GeeksforGeeks, and Coding Studio.
-- 🧑‍🎓 **Learning Journey**: Constantly learning new technologies and improving my skills in **Computer Science** and **Software Engineering**.
+- 🧑‍🎓 **Learning Journey**:  I am constantly learning new technologies and improving my skills in Computer Science and Software Engineering. My coursework includes Data Structures, Design and Analysis of Algorithms, OOP, OS, DBMS, Cloud Computing, Machine Learning, Secure Application Development, and Data Privacy.
 
 ## 📚 Education
 - **B.Tech in Computer Science & Engineering** – Nirma University (Expected: 2026)
@@ -47,7 +47,13 @@
 
 ## 💥 Achievements & Certifications
 
-- 🏆 **Top 7%** in **LeetCode Weekly Contests**
+- 📊 Demonstrated strong problem-solving skills by solving over 700+ DSA and competitive programming questions on LeetCode and Codeforces.
+- 📈 Consistently performed across major platforms, achieving a peak rating of 1828 on LeetCode and earning a 3-Star rating on CodeChef.
+- 🏅 Achieved a global rank of 1223 among 28k contestants (Top 4.5%) in LeetCode Weekly Contest 455.
+- 🏆 Secured a global rank of 58 out of 20k+ participants (Top 0.3%) in the CodeChef Starters 190 contest.
+- J.P. Morgan Chase Virtual Internship : Built data visualizations and dashboards for transaction analysis.
+
+
 
 
 ---

@@ -18,8 +18,8 @@
 ## Connect with Me
 - 📧 [Gmail](mailto:dixitpansuriya28@gmail.com)
 - 🧑‍💻 [GitHub](https://github.com/dixit2894)
-- 📱 [Whatsapp](https://wa.me/9313386643)
 - 💼 [LinkedIn](https://www.linkedin.com/in/dixit-pansuriya-690b44249/)
+- 📱 [Whatsapp](https://wa.me/9313386643)
 
 ---
 
@@ -34,30 +34,21 @@
 ### Backend Development:
 - Node.js, Express.js, MongoDB
 
-### Cloud & DevOps:
-- AWS, Firebase
-
 ### Software & Tools:
-- Git, GitHub, Stack Overflow, slack
+- Git, GitHub, Tableau, Knime
 
 ### IDEs:
 - Visual Studio Code
 
 ### OS:
-- Linux (Ubuntu), Windows
+- Windows, Kali Linux
 
 ---
 
 ## 💥 Achievements & Certifications
 
-- 🏆 **Top 10%** in **LeetCode Weekly Contests**
+- 🏆 **Top 7%** in **LeetCode Weekly Contests**
 
----
-
-## 🧠 Learning Journey
-
-- Currently learning **Machine Learning** and **AI** with a focus on Natural Language Processing (NLP) and Computer Vision.
-- Building full-stack web applications using **React**, **Next.js**, **Node.js**, and **MongoDB**.
 
 ---
 
